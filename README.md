@@ -1,5 +1,5 @@
 # Bank Marketing Data Set Example Project
-j
+jj
 ## Descriptions
 This repository contains an example done for the bank marketing data set contained on the UCI machine learning data repository.  There is only the Jupyter notebook contained, and the dataset can be found on the link below.  The work was completed on a Saturday & Sunday in March of 2020 with the intention that there was a harsh deadline approaching and the analyst wants to provide a thorough first-pass analysis.
 ## Purpose
