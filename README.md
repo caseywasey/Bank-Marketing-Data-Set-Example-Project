@@ -16,7 +16,9 @@ This repository is a collection data science, analytics, and machine learning to
 + Classification of a binary target
   + Simple algorithms
   + Changes to threshold
-+ Jaccard's metric in action
++ Jaccard's metric
+  + Hierarchical Clustering
+  + Distance metric
 + Confusion Matrix
 
 ## Who will find this useful
@@ -30,3 +32,7 @@ This repository is a collection data science, analytics, and machine learning to
 ## Contents
 
 + Bank Project Example - Casey Whorton.ipynb (Jupyter Notebook)
++ Exploratory Data Analysis
++ Preprocessing module
++ Segmentation & Clustering
++ Machine Learning
