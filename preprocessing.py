@@ -43,4 +43,5 @@ class CampaignTransformer(BaseEstimator, TransformerMixin):
 
     def transform(self, X):
         X = np.array(pd.cut(X, np.quantile(X, [0,0.25,0.5,0.75,1]), duplicates='drop', include_lowest=True).astype(str))
-        return(X.reshape(-1,1))
+        X = pd.get_dummies(X).to_numpy()
+        return(X)
