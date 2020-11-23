@@ -34,5 +34,6 @@ This repository is a collection data science, analytics, and machine learning to
 + Bank Project Example - Casey Whorton.ipynb (Jupyter Notebook)
 + Exploratory Data Analysis
 + Preprocessing module
++ Resampling
 + Segmentation & Clustering
 + Machine Learning
