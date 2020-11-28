@@ -2,15 +2,15 @@
 
 ## Description
 
-This repository contains an example done for the bank marketing data set contained on the UCI machine learning data repository.
+This repository contains examples of various data science project components performed on a bank marketing data set contained on the UCI machine learning data repository.
 
 ## Purpose
 
 This repository is a collection data science, analytics, and machine learning topics using a common example:
 
-+ Data Preprocessing
 + Exploratory Data Analysis (EDA)
 + Visualization & Plotting Data
++ Data Preprocessing
 + Segmentation/Clustering
 + Downsampling, Upsampling, and SMOTE
 + Classification of a binary target
@@ -23,7 +23,8 @@ This repository is a collection data science, analytics, and machine learning to
 
 ## Who will find this useful
 
-+ Students/competitors/data science beginners
++ Data Scientists, Machine Learning Engineers, students, & anybody that is just interested
++ Those interested in sampling techniques for classification
 + Those interested in different metrics used in clustering/segmentation
 + Those interested in the grid search cross validation approach to hyperparameter tuning
 
@@ -31,9 +32,8 @@ This repository is a collection data science, analytics, and machine learning to
 
 ## Contents
 
-+ Bank Project Example - Casey Whorton.ipynb (Jupyter Notebook)
-+ Exploratory Data Analysis
-+ Preprocessing module
-+ Resampling
++ Exploratory Data Analysis Notebook
++ Preprocessing Python Module
++ Sampling Strategy Notebook
 + Segmentation & Clustering
-+ Machine Learning
++ Classification Model Fitting Notebook
