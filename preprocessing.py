@@ -23,7 +23,9 @@ class TargetTransformer(BaseEstimator, TransformerMixin):
         return(X.reshape(-1,1))
 
 class LogPlus1Transformer(BaseEstimator, TransformerMixin):
-    
+    """
+    Transforms input feature by taking the log of the (input + 1) to avoid log(0).
+    """
     def __init__(self):
         self=self
     
@@ -35,7 +37,9 @@ class LogPlus1Transformer(BaseEstimator, TransformerMixin):
         return(X.values)
 
 class CampaignTransformer(BaseEstimator, TransformerMixin):
-    
+    """
+    Transforms input feature into quartiles and returns column of text labels for quartiles.
+    """
     def __init__(self):
         self = self
     
