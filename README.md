@@ -9,16 +9,12 @@ This repository contains examples of various data science project components per
 This repository is a collection data science, analytics, and machine learning topics using a common example:
 
 + Exploratory Data Analysis (EDA)
-+ Visualization & Plotting Data
+    + Visualization & Plotting Data
 + Data Preprocessing
-+ Segmentation/Clustering
 + Downsampling, Upsampling, and SMOTE
 + Classification of a binary target
   + Simple algorithms
   + Changes to threshold
-+ Jaccard's metric
-  + Hierarchical Clustering
-  + Distance metric
 + Confusion Matrix
 
 ## Who will find this useful
@@ -32,8 +28,8 @@ This repository is a collection data science, analytics, and machine learning to
 
 ## Contents
 
-+ Exploratory Data Analysis Notebook
-+ Preprocessing Python Module
-+ Sampling Strategy Notebook
-+ Segmentation & Clustering
-+ Classification Model Fitting Notebook
++ preprocessing.py
++ Bank Project - Classification Model Fitting.ipynb
++ Bank Project - Exploratory Data Analysis.ipynb
++ Bank Project - Preprocessing
++ Bank Project - Sampling Strategies.ipynb
