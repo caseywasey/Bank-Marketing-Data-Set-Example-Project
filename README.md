@@ -13,9 +13,10 @@ This repository is a collection data science, analytics, and machine learning to
 + Data Preprocessing
 + Downsampling, Upsampling, and SMOTE
 + Classification of a binary target
-  + Simple algorithms
-  + Changes to threshold
-+ Confusion Matrix
+  + Decision Tree
+  + Random Forest
+  + XGBoost
+      + Changes to threshold
 
 ## Who will find this useful
 
